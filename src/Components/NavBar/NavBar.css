@@ -7,7 +7,7 @@
     padding: 20px;
     display: flex;
     justify-content: space-between;
-    background-color: transparent;
+    background-color:transparent;
     overflow: hidden;
 }
 .logo{
@@ -51,6 +51,7 @@
     border-radius: 5px;
     font-size: 14px;
     font-weight: 600;
+    cursor: pointer;
 }
 
   
